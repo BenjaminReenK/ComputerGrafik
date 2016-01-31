@@ -1,0 +1,28 @@
+Solarsystem Tastenbelegung:
+
+ESC		-	Programm beenden
+W		-	nach vorne bewegen
+A		-	nach links bewegen
+S		-	nach hinten bewegen
+D		-	nach rechts bewegen
+Q		-	nach oben bewegen
+E		-	nach unten bewegen
+Mausrad Up	-	Zoom in
+Mausrad Down	-	Zoom out
+Maus		- 	freies Bewegen der Kamera
+L		-	Simulationsgeschwindigkeit erhöhen
+O		-	Simulationsgeschwindigkeit verringern
+F1		-	Distance Factor erhöhen
+F2		-	Distance Factor verringern
+F3		-	Planet ScaleFactor erhöhen
+F4		-	Planet ScaleFactor verringern
+Num 0 / 0	-	Planeteninfo schließen
+Num 1 / 1	-	Kamerafahrt / Infoanzeige Sonne
+Num 2 / 2	-	Kamerafahrt / Infoanzeige Merkur
+Num 3 / 3	-	Kamerafahrt / Infoanzeige Venus
+Num 4 / 4	-	Kamerafahrt / Infoanzeige Erde
+Num 5 / 5	-	Kamerafahrt / Infoanzeige Mars
+Num 6 / 6	-	Kamerafahrt / Infoanzeige Jupiter
+Num 7 / 7	-	Kamerafahrt / Infoanzeige Saturn
+Num 8 / 8	-	Kamerafahrt / Infoanzeige Uranus
+Num 9 / 9	- 	Kamerafahrt / Infoanzeige Neptun
